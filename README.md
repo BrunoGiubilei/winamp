@@ -1,0 +1,1 @@
+this is a project with the intention of placing an instance of the project (https://github.com/captbaritone/webamp) within an NWJS project to be compiled and executed as software on all operating systems.
